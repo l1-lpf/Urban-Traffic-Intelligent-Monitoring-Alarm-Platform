@@ -1,0 +1,25 @@
+# 1. Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 2. 庞大的数据集
+VisDrone_YOLO/
+Visdrone2019/
+
+# 3. 训练输出与模型权重
+runs/
+weights/
+models/
+*.pt
+*.onnx
+
+# 4. 视频与动态截图
+test.mp4
+test01.mp4
+static/
+
+# 5. 编辑器与环境文件
+.vscode/
+.idea/
+.env
