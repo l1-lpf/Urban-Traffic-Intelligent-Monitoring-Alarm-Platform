@@ -28,7 +28,7 @@
 
 ## 🏗️ 系统架构设计 (System Architecture)
 
-本项目采用了 **“生产者-消费者 (Producer-Consumer)”** 的高并发架构，彻底解决了视频流推拉与深度学习推理速度不匹配的问题。
+本项目采用了 ** “生产者-消费者 (Producer-Consumer)” ** 的高并发架构，彻底解决了视频流推拉与深度学习推理速度不匹配的问题。
 
 ```mermaid
 graph LR
